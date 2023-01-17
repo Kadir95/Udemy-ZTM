@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    margin-top: 10%;
+    background: linear-gradient(to right, red, blue);
+}
+
+h3 {
+    text-transform: lowercase;
+}

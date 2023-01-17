@@ -1,0 +1,43 @@
+body {
+    background-image: url(beautiful-blue-wallpaper-20.jpg);
+    background-size: cover;
+    
+}
+
+h1 {
+    color: black;
+   
+    text-transform: uppercase;
+    color: #5f3af2;
+    
+}
+
+.btn-neutral {
+    color: blueviolet;
+    background-color: white;
+    border-radius: 200px;
+    padding: 10px 10px;
+    font-size: large;
+    border-color: blueviolet;
+    transition: 0.5s;
+    text-align: center;
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 300px;
+}
+
+.btn-neutral:hover{
+   transform: scale(1.1);
+}
+
+
+.forma {
+    border: 2px dotted black;
+    border-width: 5px 5px;
+    margin-top: 200px;
+    margin-left: 2rem;
+    color: white;
+}

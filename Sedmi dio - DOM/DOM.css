@@ -1,0 +1,9 @@
+.tittle {
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}

@@ -1,0 +1,14 @@
+button 
+{
+    border: 1px solid cyan;
+    border-radius: 200px;
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: white;
+    color: cyan;
+}
+
+button:hover {
+    color: black;
+    border-color: black;
+}
