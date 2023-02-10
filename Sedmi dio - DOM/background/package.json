@@ -1,0 +1,22 @@
+{
+  "name": "background",
+  "version": "1.0.0",
+  "description": "Just a bit of practice regarding Git.",
+  "main": "background.js",
+  "scripts": {
+    "bundle": "browserify background.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadir95/Git-Practice.git"
+  },
+  "author": "Kadir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadir95/Git-Practice/issues"
+  },
+  "homepage": "https://github.com/Kadir95/Git-Practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,3 +1,8 @@
+var _ = require('lodash');
+
+let arr = [1, 2, 3, 4, 5, 6];
+console.log(_.chunk(arr, 3));
+
 let input1 = document.querySelector(".color1");
 let input2 = document.querySelector(".color2");
 let h3 = document.querySelector("h3");
